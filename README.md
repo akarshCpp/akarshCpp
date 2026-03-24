@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akarsh Anubhav</h1>
+<h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-<!--
-**akarshCpp/akarshCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍🎓 Education
+- 🎓 B.Tech in Computer Science Engineering (Big Data Analytics)  
+- 🏫 SRM University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+- 🤖 Passionate about Machine Learning, AI, and Data Science  
+- 📊 Interested in solving real-world problems using data  
+- 🚀 Currently exploring advanced ML and deep learning concepts  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+- Python  
+- C++  
+- SQL  
+
+### ⚙️ Technologies & Tools
+- FastAPI  
+- MongoDB  
+- Git & GitHub  
+
+---
+
+## 📚 Interests
+- Machine Learning  
+- Artificial Intelligence  
+- Deep Learning  
+- Data Science  
+
+---
+
+## 📈 Currently Learning
+- Advanced Machine Learning algorithms  
+- Deep Learning frameworks  
+- Real-world ML project deployment  
+
+---
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/akarshCpp 
+
+---
+
+⭐️ From Akarsh Anubhav
