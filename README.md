@@ -45,9 +45,4 @@
 
 ---
 
-## 🤝 Connect With Me
-- GitHub: https://github.com/akarshCpp 
-
----
-
 ⭐️ From Akarsh Anubhav
