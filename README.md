@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning Engineer | Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning;Deep+Learning;Data+Science;AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning;Deep+Learning;Data+Science;Rag-Systems;AI+Systems" />
 </p>
 
 ---
