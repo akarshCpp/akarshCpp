@@ -47,7 +47,7 @@ I am a B.Tech Computer Science student specializing in Big Data Analytics at SRM
 ## 📈 Commit Activity
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarshh&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarshh&theme=tokyonight" height="175"/>
 </p>
 
 ---
