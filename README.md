@@ -44,13 +44,20 @@ I am a B.Tech Computer Science student specializing in Big Data Analytics at SRM
 
 ---
 
-## 📈 Commit Activity
+## 📈 GitHub Activity
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akarshCpp&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarshh&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarshCpp&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akarshCpp&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akarshCpp&theme=tokyonight" height="180"/>
+</p>
+
 
 ## 🌐 Connect
 <p align="center">
